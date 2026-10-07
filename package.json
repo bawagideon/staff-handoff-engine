@@ -1,0 +1,11 @@
+{
+  "name": "staff-handoff-engine",
+  "version": "1.0.0",
+  "description": "Autonomous SOP and account compilation system that synthesizes an employee’s communication logs, client commitments, and open tasks into a single immutable handover dossier.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "author": "Gideon Bawa <bawagideon98@gmail.com>",
+  "license": "MIT"
+}
